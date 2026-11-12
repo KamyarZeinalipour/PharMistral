@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use PharMistral, please cite the paper below."
+title: "PharMistral: Drug generation for novel protein targets by Mistral Large Language Model"
+repository-code: "https://github.com/KamyarZeinalipour/PharMistral"
+license: Apache-2.0
+authors:
+  - family-names: "Bendjeddou"
+    given-names: "Asma"
+  - family-names: "Zeinalipour"
+    given-names: "Kamyar"
+  - family-names: "Bardou"
+    given-names: "Dalal"
+  - family-names: "Maggini"
+    given-names: "Marco"
+  - family-names: "Scarselli"
+    given-names: "Franco"
+  - family-names: "Bianchini"
+    given-names: "Monica"
+preferred-citation:
+  type: article
+  title: "PharMistral: Drug generation for novel protein targets by Mistral Large Language Model"
+  authors:
+    - family-names: "Bendjeddou"
+      given-names: "Asma"
+    - family-names: "Zeinalipour"
+      given-names: "Kamyar"
+    - family-names: "Bardou"
+      given-names: "Dalal"
+    - family-names: "Maggini"
+      given-names: "Marco"
+    - family-names: "Scarselli"
+      given-names: "Franco"
+    - family-names: "Bianchini"
+      given-names: "Monica"
+  journal: "Computer Methods and Programs in Biomedicine Update"
+  volume: 10
+  month: 6
+  year: 2026
+  doi: "10.1016/j.cmpbup.2026.100257"
+  url: "https://doi.org/10.1016/j.cmpbup.2026.100257"
